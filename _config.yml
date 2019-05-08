@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: logo.gif
 
 # Personal info
 name: Vasant Vohra
@@ -17,12 +17,12 @@ linkedin_username: vasantvohra
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: vasant.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   ### Skills
-  - <b>Confident</b>
+  - <b>Experienced</b>
     - <font size = '4'>OS : Linux, Windows</font>
     - <font size = '4'>Language : Python</font>
     - <font size = '4'>Database : Mysql</font>
