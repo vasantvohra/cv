@@ -6,21 +6,14 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Vasant Vohra
 title: software Engineer
 email: vasantvohra@gmail.com
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+phone: +918700410435
+website: [Vital AI](http://ai.vital.in)
 
 # Social links
-twitter_username: jekyllrb
+
 github_username:  vasantvohra
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
 linkedin_username: vasantvohra
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+
 
 # About Section
 # about_title: About Me (Use this to override about section title)
