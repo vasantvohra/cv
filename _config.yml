@@ -7,7 +7,7 @@ name: Vasant Vohra
 title: Software Engineer
 email: vasantvohra@gmail.com
 phone: 0-8700-410-435
-website: Vital AI (http://ai.vital.in)
+website: ai.vital.in
 
 # Social links
 
@@ -21,11 +21,19 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  ### Skills
+  - <b>Confident</b>
+    - <font size = '4'>OS : Linux, Windows</font>
+    - <font size = '4'>Language : Python</font>
+    - <font size = '4'>Database : Mysql</font>
+    - <font size = '4'>Frameworks : Flask</font>
+    - <font size = '4'>Others : Data Analysis, Git</font>
+  - <b>Knowledgeable</b>
+    - <font size = '4'>OS : Mac </font>
+    - <font size = '4'>Language : Java, Matlab </font>
+    - <font size = '4'>Database : PostgreSQL</font>
+    - <font size = '4'>Others : Data Engineering, Docker, Jenkins , NoSQL </font>
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
