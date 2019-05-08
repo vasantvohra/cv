@@ -1,10 +1,10 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: vasantvohra/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Vasant Vohra
-title: software Engineer
+title: Software Engineer
 email: vasantvohra@gmail.com
 phone: +918700410435
 website: [Vital AI](http://ai.vital.in)
