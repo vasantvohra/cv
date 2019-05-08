@@ -4,5 +4,5 @@
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Automated facial recognition attendance monitoring system for employees or students.
-  description: | # this will include new lines to allow paragraphs
-    Description: this is the description
+  description: | # this will include new lines to allow paragraphs 
+  this is the description
