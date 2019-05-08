@@ -1,8 +1,8 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: SRM UNIVERSITY DELHI NCR
+  dates: August'15 - May'19
+  qualification: B.Tech. Computer Science and Engineer
   quote: >
-    Short institution or course description (optional)
+    Computer science and engineering (CSE) is an academic program at universities that integrates the fields of computer engineering and computer science.
   description: | # this will include new lines to allow paragraphs
     Description of qualification
