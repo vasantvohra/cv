@@ -5,9 +5,7 @@
   dates: June-Aug 2018
   quote: >
    Aapna Infotech is a team of highly-skilled professionals, providing cutting-edge solutions for Enterprise, Mobility and IoT application needs.
-  description: |
+  description: | # this will include new lines to allow paragraphs
    - Understood basics of machine learning and computer vision while independently developing a project. 
    - Automated facial recognition attendance monitoring system in python programming language and deployed on Raspberry pi 3. 
    - There were further more projects in which I was part of their developing team.
-
-    
