@@ -22,7 +22,7 @@ about_content: | # this will include new lines to allow paragraphs
   Recently, completed B.Tech. in *Computer Science and Engineering from SRM University Delhi-NCR*. <br>
     AI enthusiastic as AI can solve so many challenging problems. <br>
     "AI is the new electricity." <br>
-      &nbsp - Andrew Ng <br>
+        - Andrew Ng <br>
   I like solving problems for the society, Here's the problem & There's the solution through technology. In my previous internships, I was allowed to solve a bit of the real-life problem.
   <br>Also, I have completed a course on Deep learning from IIT Madras, which comprehends the mathematics behind various **Deep learning models**.<br>
   I'm always looking for challenging <mark>full-time opportunities</mark> around the *globe*.
@@ -53,10 +53,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Articles
 more_content: | # this will include new lines to allow paragraphs
-  I started writing on February 2018
-  (https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)[Metro Rush]
-  (https://www.linkedin.com/pulse/smart-meeting-rooms-ai-vasant-vohra/)[Smart-Meeting Rooms]
-  (https://www.linkedin.com/pulse/interconnected-world-5g-vasant-vohra/)[Connected Automobile]
+  I started writing articles on **February 2018** <br>
+  [Metro Rush](https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)
+  [Smart-Meeting Rooms](https://www.linkedin.com/pulse/smart-meeting-rooms-ai-vasant-vohra/)
+  [Connected Automobile](https://www.linkedin.com/pulse/interconnected-world-5g-vasant-vohra/)
 # Footer
 footer_show_references: true
 
