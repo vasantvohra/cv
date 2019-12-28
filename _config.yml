@@ -19,14 +19,14 @@ linkedin_username: vasantvohra
 # about_title: About Me (Use this to override about section title)
 about_profile_image: vasant.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Recently, completed B.Tech. in Computer Science and Engineering from SRM University Delhi-NCR. -
-  Before being a software engineer, I'm a curious engineer.
-    AI enthusiastic as AI can solve so many challenging problems.
+  Recently, completed B.Tech. in *Computer Science and Engineering from SRM University Delhi-NCR*. <br>
+  Before being a software engineer, I'm a **curious ML engineer**. <br>
+    AI enthusiastic as AI can solve so many challenging problems. <br>
     "AI is the new electricity."
       - Andrew Ng
-  I like solving problems for the society, Here's the problem & There's the solution through technology. In my previous internships, I was allowed to solve a bit of the real-life problem. |
-  I have completed a course on Deep learning from IIT Madras, which comprehends the mathematics behind various Deep learning models.
-  Always looking for challenging full-time opportunities around the globe.
+  I like solving problems for the society, Here's the problem & There's the solution through technology. In my previous internships, I was allowed to solve a bit of the real-life problem.
+  <br>I have completed a course on Deep learning from IIT Madras, which comprehends the mathematics behind various **Deep learning models**.<br>
+  Always looking for challenging <mark>full-time opportunities</mark> around the globe.
 
   ### Skills
   - <b>Experienced</b>
