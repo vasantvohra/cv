@@ -4,7 +4,8 @@
   qualification: B.Tech. Computer Science and Engineer
   quote: >
     Studied computer science at one of the most rigorous undergraduate programs in the country.
-  description: | Gained incredible experiences and knowledge which will enable me to be successful in providing information in a timely manner to execute important problem-solving projects. # this will include new lines to allow paragraphs
+  description: 
+  Gained incredible experiences and knowledge which will enable me to be successful in providing information in a timely manner to execute important problem-solving projects. # this will include new lines to allow paragraphs
     - Some AI-related courses: 
       - Soft Computing: Neural Network, Fuzzy logic, and Genetic Algorithms.
       - Artificial intelligence and Expert System: Predicate logic resolution, Expert systems Architecture, knowledge representation and various different expert systems: MyCin, DART, Internist, PIP, XOON.
