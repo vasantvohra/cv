@@ -54,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: Articles
 more_content: | # this will include new lines to allow paragraphs
   I started writing articles on **February 2018** <br>
-  [Metro Rush](https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)
-  [Smart-Meeting Rooms](https://www.linkedin.com/pulse/smart-meeting-rooms-ai-vasant-vohra/)
-  [Connected Automobile](https://www.linkedin.com/pulse/interconnected-world-5g-vasant-vohra/)
+  - [Metro Rush](https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)
+  - [Smart-Meeting Rooms](https://www.linkedin.com/pulse/smart-meeting-rooms-ai-vasant-vohra/)
+  - [Connected Automobile](https://www.linkedin.com/pulse/interconnected-world-5g-vasant-vohra/)
 # Footer
 footer_show_references: true
 
