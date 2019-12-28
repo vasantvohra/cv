@@ -1,9 +1,12 @@
 # Education Template
 - name: SRM UNIVERSITY DELHI NCR
-  dates: August'15 - May'19
+  dates: July'15 - May'19
   qualification: B.Tech. Computer Science and Engineer
   quote: >
-    Computer science and engineering (CSE) is an academic program at universities that integrates the fields of computer engineering and computer science.
-  description: | # this will include new lines to allow paragraphs
-    - I worked hard. 
+    Studied computer science at one of the most rigorous undergraduate programs in the country.
+  description: | Gained incredible experiences and knowledge which will enable me to be successful in providing information in a timely manner to execute important problem-solving projects. # this will include new lines to allow paragraphs
+    - Some AI-related courses: 
+      - Soft Computing: Neural Network, Fuzzy logic, and Genetic Algorithms.
+      - Artificial intelligence and Expert System: Predicate logic resolution, Expert systems Architecture, knowledge representation and various different expert systems: MyCin, DART, Internist, PIP, XOON.
+      - Logic in computer science: SAT solvers, Booleans, etc; great article by Robert Kowalski "Time to think like a computer"
       - <font size = '3'><a href = "https://drive.google.com">Nothing</a></font>
