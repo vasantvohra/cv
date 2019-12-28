@@ -20,13 +20,12 @@ linkedin_username: vasantvohra
 about_profile_image: vasant.jpg
 about_content: | # this will include new lines to allow paragraphs
   Recently, completed B.Tech. in *Computer Science and Engineering from SRM University Delhi-NCR*. <br>
-  Before being a software engineer, I'm a **curious ML engineer**. <br>
     AI enthusiastic as AI can solve so many challenging problems. <br>
-    "AI is the new electricity."
-      - Andrew Ng
+    "AI is the new electricity." <br>
+      &nbsp - Andrew Ng <br>
   I like solving problems for the society, Here's the problem & There's the solution through technology. In my previous internships, I was allowed to solve a bit of the real-life problem.
-  <br>I have completed a course on Deep learning from IIT Madras, which comprehends the mathematics behind various **Deep learning models**.<br>
-  Always looking for challenging <mark>full-time opportunities</mark> around the globe.
+  <br>Also, I have completed a course on Deep learning from IIT Madras, which comprehends the mathematics behind various **Deep learning models**.<br>
+  I'm always looking for challenging <mark>full-time opportunities</mark> around the *globe*.
 
   ### Skills
   - <b>Experienced</b>
@@ -52,12 +51,12 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title: Articles
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+  I started writing on February 2018
+  (https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)[Metro Rush]
+  (https://www.linkedin.com/pulse/smart-meeting-rooms-ai-vasant-vohra/)[Smart-Meeting Rooms]
+  (https://www.linkedin.com/pulse/interconnected-world-5g-vasant-vohra/)[Connected Automobile]
 # Footer
 footer_show_references: true
 
