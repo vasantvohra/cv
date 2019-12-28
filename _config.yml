@@ -19,20 +19,27 @@ linkedin_username: vasantvohra
 # about_title: About Me (Use this to override about section title)
 about_profile_image: vasant.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Recently, completed B.Tech. in Computer Science and Engineering from SRM University Delhi-NCR. -
+  Before being a software engineer, I'm a curious engineer.
+    AI enthusiastic as AI can solve so many challenging problems.
+    "AI is the new electricity."
+      - Andrew Ng
+  I like solving problems for the society, Here's the problem & There's the solution through technology. In my previous internships, I was allowed to solve a bit of the real-life problem. |
+  I have completed a course on Deep learning from IIT Madras, which comprehends the mathematics behind various Deep learning models.
+  Always looking for challenging full-time opportunities around the globe.
 
   ### Skills
   - <b>Experienced</b>
     - <font size = '4'>OS : Linux, Windows</font>
     - <font size = '4'>Language : Python</font>
-    - <font size = '4'>Database : Mysql</font>
-    - <font size = '4'>Frameworks : Flask</font>
-    - <font size = '4'>Others : Data Analysis, Git</font>
+    - <font size = '4'>Libraries : Keras, OpenCV, PIL, Numpy, Pandas</font>
+    - <font size = '4'>Frameworks : Tensorflow, Flask</font>
+    - <font size = '4'>Others :  Git</font>
   - <b>Knowledgeable</b>
     - <font size = '4'>OS : Mac </font>
-    - <font size = '4'>Language : Java, Matlab </font>
-    - <font size = '4'>Database : PostgreSQL</font>
-    - <font size = '4'>Others : Data Engineering, Docker, Jenkins , NoSQL </font>
+    - <font size = '4'>Language : C, Prolog </font>
+    - <font size = '4'>Libraries : Sklearn, SpaCy</font>
+    - <font size = '4'>Framework : Django, Docker, Azure Cognitive Services </font>
 
 
 # Projects Section
