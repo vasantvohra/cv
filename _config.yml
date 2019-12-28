@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: Articles
+more_title: Articles
 more_content: | # this will include new lines to allow paragraphs
   I started writing articles on **February 2018** <br>
   - [Metro Rush](https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)
