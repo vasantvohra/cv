@@ -1,5 +1,29 @@
 # Project template
-- name: Project name
+- name: Indian Trucks Automatic License Plate Recognition
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    You Only Look Once
+  description: | # this will include new lines to allow paragraphs
+    - Created, annotated, augmented, and trained the dataset of 300 Indian trucks images using YOLOv2, applied a Non-maximum suppression algorithm to retain bounding box with maximum probability for plate detection.
+    - Additionally, trained a Multilayer Perceptron classifier for digit recognition on the license plate.
+- name: HandWritten Signature Verification
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Siamese Neural Network
+  description: | # this will include new lines to allow paragraphs
+    - Utilizing a dataset of 60 people's signature, extracted & verified standardized residential loan applications by training SNN with contrastive loss function also reducing the false positives by noise filtration.
+- name: Waste Management
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Convolution Neural Network
+  description: | # this will include new lines to allow paragraphs
+    - Achieved 80% validation accuracy to segregate waste into different categories by training a fine-tuned CNN for image classification on the open-source TrashNet dataset.
+    - Automated trashbags counting through color segmentation by HSV boundaries & KMeans for obtaining different colors in an image.
+
+- name: Medical Imaging Analysis
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -10,34 +34,15 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Tensorflow-Keras Serving
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-- name: Project name
+    - Diagnosing Pneumonia by training a regularized CNN on 6000 Chest X-ray specimens collected from kaggle dataset reaching 85% precision.
+    - Also, developed a user-friendly Python-Flask interface for accessibility.
+- name: Chatbot
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Azure SAAS/Decision Tree
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Bot concludes most likely disease on the basis of symptoms description given by the comfort of chatting.
+    - Azure bot framework and decision tree with a knowledge-base of multiple diseases along with symptoms.							
