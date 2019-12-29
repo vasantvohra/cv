@@ -1,5 +1,5 @@
 # Education Template
-- name: SRM UNIVERSITY DELHI NCR
+- name: SRM UNIVERSITY DELHI-NCR
   dates: July'15 - May'19
   qualification: B.Tech. Computer Science and Engineer
   quote: >
@@ -14,6 +14,6 @@
   dates: July'18 - Oct'18
   qualification: Deep-Learning course
   quote: >
-    NPTEL is an initiative funded by the MHRD, Government of India. It awards students suitable credits on the courses to be added to their University’s semester mark sheet.  description: |
+    NPTEL is an initiative funded by the MHRD, Government of India. It awards students suitable credits on the courses to be added to their University’s semester mark sheet.
   description: |    
-    Studied mathematical foundations behind <mark>ANN, PCA, Auto-Encoder, Regularizations, CNN, RNN & LSTM.</mark>
+    - Studied mathematical foundations behind <mark>ANN, PCA, Auto-Encoder, Regularizations, CNN, RNN & LSTM.</mark>
