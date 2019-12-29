@@ -16,7 +16,7 @@
     - Utilizing a dataset of 60 people's signature, extracted & verified standardized residential loan applications by training SNN with contrastive loss function also reducing the false positives by noise filtration.
 - name: Waste Management
   link: https://trashnet.herokuapp.com/
-  github: https://github.com/vasantvohra/TrashNet
+  github: vasantvohra/TrashNet
   quote: >
     Convolution Neural Network
   description: | # this will include new lines to allow paragraphs
@@ -24,7 +24,7 @@
     - Automated trashbags counting through color segmentation by HSV boundaries & KMeans for obtaining different colors in an image.
 - name: Medical Imaging Analysis
   link: https://xrayclassify.herokuapp.com/
-  github: https://github.com/vasantvohra/Xray-classification
+  github: vasantvohra/Xray-classification
   quote: >
     Tensorflow-Keras Serving
   description: | # this will include new lines to allow paragraphs
@@ -32,7 +32,7 @@
     - Also, developed a user-friendly Python-Flask interface for accessibility.
 - name: Chatbot
   link: https://medisign.herokuapp.com/
-  github: https://github.com/vasantvohra/medisigns
+  github: vasantvohra/medisigns
   quote: >
     Azure SAAS/Decision Tree
   description: | # this will include new lines to allow paragraphs
@@ -40,7 +40,7 @@
     - Azure bot framework and decision tree with a knowledge-base of multiple diseases along with symptoms.							
 - name: Facial Recognition Attendance Monitoring System	
   link: 
-  github: https://github.com/vasantvohra/Facial_Recognition-HAAR-LBP
+  github: vasantvohra/Facial_Recognition-HAAR-LBP
   quote: >
     HAAR Cascade, LBPH
   description: | # this will include new lines to allow paragraphs
