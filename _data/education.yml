@@ -10,3 +10,10 @@
       - <font size = '3'> <mark>Soft Computing </mark>: Neural Network, Fuzzy logic, and Genetic Algorithms.
       - <font size = '3'> <mark>Artificial intelligence and Expert System</mark>: Predicate logic resolution, Expert systems Architecture, knowledge representation and various different expert systems: MyCin, DART, Internist, PIP, XOON.
       - <font size = '3'> <mark>Logic in computer science</mark>: Booleans; great article by Robert Kowalski "Time to think like a computer"
+- name: NPTEL, IIT Madras
+  dates: July'18 - Oct'18
+  qualification: Deep-Learning course
+  quote: >
+    NPTEL is an initiative funded by the MHRD, Government of India. It awards students suitable credits on the courses to be added to their University’s semester mark sheet.  description: |
+  description: |    
+    Studied mathematical foundations behind <mark>ANN, PCA, Auto-Encoder, Regularizations, CNN, RNN & LSTM.</mark>
