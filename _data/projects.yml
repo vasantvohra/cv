@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     - Created, annotated, augmented, and trained the dataset of 300 Indian trucks images using YOLOv2, applied a Non-maximum suppression algorithm to retain bounding box with maximum probability for plate detection.
     - Additionally, trained a Multilayer Perceptron classifier for digit recognition on the license plate.
-- name: HandWritten Signature Verification
+- name: Handwritten Signature Verification
   link: 
   github: 
   quote: >
