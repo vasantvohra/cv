@@ -19,23 +19,20 @@ linkedin_username: vasantvohra
 # about_title: About Me (Use this to override about section title)
 about_profile_image: vasant.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software Engineer working on <mark> Artificial Intelligence, Machine Learning and Deep Learning Technology</mark> through the implementation of multiple projects across various business domains.
-  I'm keen to solve challenges by leveraging *AI technology* for a productive experience.
-  As well as, a bright beginner at problem-solving skills in the **competitive programming world**.
-  Since High School, <mark>Python </mark> has been my favorite programming language.
-  And, I have completed a course on Deep learning from **IIT Madras**, which comprehends the mathematics behind various **Deep learning models**.
-  I'm always looking for challenging <mark>full-time opportunities</mark> around the *globe*.
-
+  Software Engineer working on <mark>Artificial Intelligence: Deep Learning technology</mark>.
+  Expertise in executing projects across business domains. Also, I have completed a Deep Learning course from **IIT Madras**, NPTEL.
+  This course clarified in-depth **mathematics** underlying Deep Learning algorithms. I’m keen to solve challenges by leveraging *AI* technology.
+  Since high school, *Python* is my favorite programming language.
+  At last, I’m always looking for <mark>full-time opportunities</mark> across the globe. 
+  
   ### Skills
   - <b>Experienced</b>
-    - <font size = '4'>OS : Linux, Windows</font>
     - <font size = '4'>Programming Language : Python</font>
     - <font size = '4'>Libraries : Keras, OpenCV, PIL, Numpy, Pandas</font>
-    - <font size = '4'>Frameworks : Tensorflow, Flask</font>
+    - <font size = '4'>Frameworks : TensorFlow, Flask</font>
     - <font size = '4'>Others :  Git</font>
   - <b>Knowledgeable</b>
-    - <font size = '4'>OS : Mac </font>
-    - <font size = '4'>Programming Language : C, Prolog </font>
+    - <font size = '4'>Programming Languages : C, Prolog </font>
     - <font size = '4'>Libraries : Sklearn, SpaCy</font>
     - <font size = '4'>Frameworks : Django, Docker, Azure Cognitive Services </font>
 
