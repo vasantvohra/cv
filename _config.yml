@@ -6,7 +6,7 @@ favicon: logo.gif
 name: Vasant Vohra
 title: Software Engineer
 email: vasantvohra@gmail.com
-phone: [+91-8700-410-435](tel:+918700410435)
+phone: +91-8700-410-435
 website: ai.vital.in
 
 # Social links
@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
     - <font size = '4'>Programming Language : Python</font>
     - <font size = '4'>Libraries : Keras, OpenCV, PIL, Numpy, Pandas</font>
     - <font size = '4'>Frameworks : TensorFlow, Flask</font>
-    - <font size = '4'>Others :  Git</font>
+    - <font size = '4'>Version control system :  Git</font>
   - <b>Knowledgeable</b>
     - <font size = '4'>Programming Languages : C, Prolog </font>
     - <font size = '4'>Libraries : Sklearn, SpaCy</font>
