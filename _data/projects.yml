@@ -1,4 +1,16 @@
 # Project template
+- name: Recruitment-Bot
+  link: https://ankithr.herokuapp.com/
+  github: https://github.com/vasantvohra/RecruitmentBot
+  quote: >
+    DialogFlow, Flask, Firebase
+  description: | # this will include new lines to allow paragraphs
+    - It automatically collects applicants' information regarding experience & qualifications through requesting answers to initial screening questions based on a selected profile and some generic questions.
+    - It can validate as well as able to detect Gibberish based on a two-character **Markov chain** and prompts the user to re-enter the answer. 
+    - Recruitment bot authenticates applicants through Firebase email verification and stores all their info in Firebase realtime DB. 
+    - The Applicants can also upload their resume when requested by bot. The file gets stored in Firebase bucket storage. 
+    - Also, **Flask** is being used in the backend to serve the static and dynamic files from the upload folder. Thus, applicants can also preview their uploaded file, receive an automated "successfully submitted" email with all entered responses and attached resume. 
+    - Later on, the Applicant may revisit the bot to request either for his application status or update his previously entered information. 
 - name: Indian Trucks Automatic License Plate Recognition
   link: 
   github:
@@ -39,7 +51,7 @@
     - Bot concludes most likely disease on the basis of symptoms description given by the comfort of chatting.
     - Azure bot framework and decision tree with a knowledge-base of multiple diseases along with symptoms.							
 - name: Facial Recognition Attendance Monitoring System	
-  link: 
+  link: https://vasantvohra.github.io/Facial_Recognition-HAAR-LBP/
   github: vasantvohra/Facial_Recognition-HAAR-LBP
   quote: >
     HAAR Cascade, LBPH
