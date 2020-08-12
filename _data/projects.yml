@@ -9,7 +9,7 @@
     - Recruitment bot authenticates applicants through **Firebase** email verification and stores all their info in Firebase realtime DB. 
     - The Applicants can also upload their resume. The file gets stored in Firebase bucket storage. Also, **Flask** is being used in the backend to serve the static and dynamic files from the upload folder. Thus, applicants can also preview their uploaded file, receive an automated "successfully submitted" email with all entered responses and attached resume. 
     - Later on, the applicant may revisit the bot to request either his application status or update his previously entered information.
-    - ** Next Version ** would have Automatic Resume Parsing, A Random Forest trees (ML Algorithm) to make a decision on whom to call for next steps.
+    - **Next Version** would have Automatic Resume Parsing, A **Random Forest trees** (ML Algorithm) to make a decision on whom to call for next stages of recruitment.
 - name: Indian Trucks Automatic License Plate Recognition
   link: https://www.linkedin.com/pulse/weighbridge-indian-trucks-alpr-vasant-vohra/?trackingId=JhzB061rThy%2Brz0BRTEgYQ%3D%3D
   github:
