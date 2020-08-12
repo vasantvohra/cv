@@ -1,16 +1,17 @@
 # Project template
 - name: Recruitment-Bot
-  link: https://ankithr.herokuapp.com/
+  link: https://www.aapnainfotech.com/jobs
   github: vasantvohra/RecruitmentBot
   quote: >
-    Technical stack: DialogFlow, Flask, Firebase
+    Technical stack: Python-Flask, Google-DialogFlow, Google-Firebase
   description: | # this will include new lines to allow paragraphs
-    - Automatically collects applicants' information regarding experience & qualifications through requesting answers to initial screening questions based on a selected profile and some generic questions. It can validate as well as able to detect Gibberish based on a two-character **Markov chain** and prompts the user to re-enter the answer. 
+    - Automatically collects applicants' information regarding experience & qualifications through requesting answers to initial screening questions based on a selected profile and some generic questions. Bot validates as well as detects Gibberish user-inputs based on a two-character **Markov chain** and prompts the user to re-enter the answer. 
     - Recruitment bot authenticates applicants through **Firebase** email verification and stores all their info in Firebase realtime DB. 
-    - The Applicants can also upload their resume when requested by bot. The file gets stored in Firebase bucket storage. Also, **Flask** is being used in the backend to serve the static and dynamic files from the upload folder. Thus, applicants can also preview their uploaded file, receive an automated "successfully submitted" email with all entered responses and attached resume. 
-    - Later on, the Applicant may revisit the bot to request either for his application status or update his previously entered information. 
+    - The Applicants can also upload their resume. The file gets stored in Firebase bucket storage. Also, **Flask** is being used in the backend to serve the static and dynamic files from the upload folder. Thus, applicants can also preview their uploaded file, receive an automated "successfully submitted" email with all entered responses and attached resume. 
+    - Later on, the applicant may revisit the bot to request either his application status or update his previously entered information.
+    - ** Next Version ** would have Automatic Resume Parsing, A Random Forest trees (ML Algorithm) to make a decision on whom to call for next steps.
 - name: Indian Trucks Automatic License Plate Recognition
-  link: 
+  link: https://www.linkedin.com/pulse/weighbridge-indian-trucks-alpr-vasant-vohra/?trackingId=JhzB061rThy%2Brz0BRTEgYQ%3D%3D
   github:
   quote: >
     You Only Look Once
@@ -18,7 +19,7 @@
     - Created, annotated, augmented, and trained the dataset of 300 Indian trucks images using YOLOv2, applied a Non-maximum suppression algorithm to retain bounding box with maximum probability for plate detection.
     - Additionally, trained a Multilayer Perceptron classifier for digit recognition on the license plate.
 - name: Handwritten Signature Verification
-  link: 
+  link: https://www.linkedin.com/pulse/handwritten-signature-verification-deep-learning-vasant-vohra/
   github: 
   quote: >
     Siamese Neural Network
