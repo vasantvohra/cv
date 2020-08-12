@@ -1,11 +1,13 @@
 # Experience template
 - company: AAPNA Infotech 
   link: https://www.aapnainfotech.com/
-  job_title: Computer Vision Software Engineer
+  job_title: Machine Learning Engineer (Focus: Computer Vision)
   dates: June'2018-Present | vvohra@aapnainfotech.in
   quote: >
    Aapna Infotech is a team of highly-skilled professionals, providing cutting-edge solutions for Enterprise, Mobility and AI application needs.
   description: | # this will include new lines to allow paragraphs
-   - Initiated & Contributed to the development of Deep Learning Technology projects.
-   - As an intern in 2018, I developed & deployed an attendance monitoring system using facial recognition(OpenCV, Raspberry pi3).
-
+   - Initiating & Contributing to the development of Machine Learning, ** Deep Learning ** Technology projects.
+   - Employing and modifying innovative research to solve ** business problems **.
+   - Training, optimization, improving hyperparameters, performance evaluation of ** Machine Learning models **.
+   - Successfully ** communicating ** outcomes with stakeholders, defining and streamling the development process, presentation.
+   - Providing ** support ** to other engineers with machine learning domain expertise in constructing application of machine learning systems.
