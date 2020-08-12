@@ -19,10 +19,10 @@ linkedin_username: vasantvohra
 # about_title: About Me (Use this to override about section title)
 about_profile_image: vasant.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software Engineer working on <mark>Artificial Intelligence: Deep Learning technology</mark>.
-  Expertise in executing projects across business domains. Also, I have completed a Deep Learning course from **IIT Madras**, NPTEL.
-  This course clarified in-depth **mathematics** underlying Deep Learning algorithms. I’m keen to solve challenges by leveraging *AI* technology.
-  Since high school, *Python* is my favorite programming language.
+  Software Engineer working on <mark>Artificial Intelligence: Deep Learning technology</mark>. 
+  Expertise in executing projects across business domains. Completed a Deep Learning course from **IIT Madras**, NPTEL.
+  Course clarified in-depth **mathematics** underlying Deep Learning algorithms.
+  Since high school, *Python* is my favorite programming language. Now, great with Data-Structures and Algorithms on it.
   At last, I’m always looking for <mark>full-time opportunities</mark> around the globe. 
   
   ### Skills
@@ -53,6 +53,8 @@ more_content: | # this will include new lines to allow paragraphs
   - [Metro Rush](https://www.linkedin.com/pulse/metro-rush-vasant-vohra/)
   - [Smart-Meeting Rooms](https://www.linkedin.com/pulse/smart-meeting-rooms-ai-vasant-vohra/)
   - [Connected Automobile](https://www.linkedin.com/pulse/interconnected-world-5g-vasant-vohra/)
+  - [Automatic License Plate Recognition](https://www.linkedin.com/pulse/weighbridge-indian-trucks-alpr-vasant-vohra/)
+  - [Handwritten Signature Verification](https://www.linkedin.com/pulse/handwritten-signature-verification-deep-learning-vasant-vohra/)
 # Footer
 footer_show_references: true
 
