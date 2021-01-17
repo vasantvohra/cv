@@ -1,12 +1,16 @@
 # Experience template
 - company: United Nations office at Geneva 
   link: https://www.unog.ch/
-  job_title: Full Stack Developer (Majorly Python Backend..)
+  job_title: Full Stack Developer (Python)
   dates: October'2020-Present
   quote: >
     Working for Peace, Rights and Well being...
   description: | # this will include new lines to allow paragraphs
-
+   - Details on the project will be shared soon 
+   - Don't forget to checkout my Linkedin.
+   - Get in touch over email.
+   -
+   -
 - company: AAPNA Infotech 
   link: https://www.aapnainfotech.com/
   job_title: Machine Learning Engineer (Spcl. Computer Vision)
